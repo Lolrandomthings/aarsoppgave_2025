@@ -1,0 +1,13 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+/* This makes it so the footer stays automatically on the botton + the first three lines in body 
+#footer {
+    margin-top: auto;
+} */
