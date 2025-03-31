@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #EFEFEF;
+}
+#header{
+    display: flex;
+    background-color: #065A82;
+}
+
+button{
+    font-size: 20px;
+}
+
+
+
+/* This makes it so the footer stays automatically on the botton + the first three lines in body*/
+#footer {
+    margin-top: auto;
+    background-color: #065A82;
+    
+}
