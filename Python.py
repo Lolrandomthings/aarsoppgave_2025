@@ -1,11 +1,11 @@
 import mysql.connector
-
 from flask import Flask, render_template
 app = Flask(__name__)
+
 mydb = mysql.connector.connect(
     host="10.2.4.52",
     user="JayPi",
-    password="balls",
+    password="WhatSHOULDiNameThisPasswordHEeeeellllpppp",
     database="task"
 )
 
