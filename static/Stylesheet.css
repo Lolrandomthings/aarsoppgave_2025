@@ -1,12 +1,21 @@
 body {
     min-height: 100vh;
     display: flex;
+    margin: 0;
     flex-direction: column;
     background-color: #EFEFEF;
 }
 #header{
     display: flex;
     background-color: #065A82;
+    margin-bottom: 5%;
+    text-align: center;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    top: 0;
+    z-index: 1;
 }
 
 button{
