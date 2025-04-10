@@ -2,22 +2,9 @@
 
 let changeColorEl = document.getElementById("changeColor")
 
-changeColorEl.addEventListener("click", nightmode)
+changeColorEl.addEventListener("click", darkmode)
 
-function nightmode(e){
-    console.log("Hello")
-
-}
-
-// function changeColor(e){ 
-//     console.log(colorEl.value)
-//     let colorChange = colorEl.value
-    
-//     if (CSS.supports('color', colorChange)){
-//         colorEl.style.color = "white"
-//         bodyEl.style.backgroundColor = colorChange;
-//     }
-//     else{
-//         colorEl.style.color = "White"
-//     }
-// }
+function darkmode() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+  }

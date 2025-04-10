@@ -7,6 +7,7 @@ body {
 }
 #header{
     display: flex;
+    color: #EFEFEF;
     background-color: #065A82;
     margin-bottom: 5%;
     text-align: center;
@@ -22,11 +23,23 @@ button{
     font-size: 20px;
 }
 
-
+.dark-mode {
+    background-color: black;
+    color: #EFEFEF;
+}
 
 /* This makes it so the footer stays automatically on the botton + the first three lines in body*/
 #footer {
     margin-top: auto;
     background-color: #065A82;
-    
+    color: #EFEFEF;
+}
+
+a:link {
+    color: #EFEFEF;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000000;
 }
