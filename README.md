@@ -13,8 +13,11 @@ Verktøyene jeg har brukt er:
 ### Farger
 Jeg har valgt disse fargene for å få den blåe fargen til å se bra ut i både dark og ligt modus.
 
-![Alt text](image.png)
+![Alt text](colors.png)
 
 ## Universiell utforming
 Jeg har valgte å ha en dark mode på nettsiden min for og kunne skape en berde opplevelse for alle. 
 For personer som har migrener kan det hjelpe å ikke ha en helt hvit skjerm. Det er en button så brukeren kan selv velge hva de liker best.
+
+### Målgruppe
+Målgruppen er ungdom og unge voksne i alderen 13 til 25 år med interesse for anime. Med denne målgruppen kan det antas at de har grunnleggende kunnskaper om bruk av datamaskin.

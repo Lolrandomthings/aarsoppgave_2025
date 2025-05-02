@@ -19,6 +19,11 @@ body {
     z-index: 1;
 }
 
+#logo{
+    width: 100%;
+    height: auto;
+}
+
 button{
     font-size: 20px;
 }
