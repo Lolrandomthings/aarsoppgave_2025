@@ -44,9 +44,14 @@ a:visited {
     color: #000000;
 }
 
-.Picture {
+.pictureFolder{
     display: flex;
-    
-    height: 50px;
+    direction: ltr;
+    width: auto;
+}
+
+.picture {
+    display: flex;
+    height: 100px;
     width: auto;
 }

@@ -3,27 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>FrameLink</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='Css/Stylesheet.css') }} ">
 </head>
 <body>
     <div class="header" id="header">
         <div class="logo">
         </div>
-        <h1>Ninjaflix</h1>
+        <h1>FrameLink</h1>
         <button type="button" id="changeColor">Dark mode</button>
         <button type="button" class="buttons" id="buttons">Button 1</button>
         <button type="button" class="buttons" id="buttons">Button 2</button>
     </div>
     <div class="main" id="main">
-        <img src="static/Pexel/Pexel1.jpg" alt="" class="Picture">
-        <img src="static/Pexel/Pexel2.jpg" alt="" class="Picture">
-        <img src="static/Pexel/Pexel3.jpg" alt="" class="Picture">
-        <img src="static/Pexel/Pexel4.jpg" alt="" class="Picture">
-        <img src="static/Pexel/Pexel5.jpg" alt="" class="Picture">
-        <img src="static/Pexel/Pexel6.jpg" alt="" class="Picture">
-        <img src="static/Pexel/Pexel7.jpg" alt="" class="Picture">
-        <img src="static/Pexel/Pexel8.jpg" alt="" class="Picture">
+        <div class="pictureFolder" id="pictureFolder">
+            <img src="static/Pexel/Pexel1.jpg" alt="Picture of ble ice cracks" class="picture" id="picture">
+            <img src="static/Pexel/Pexel2.jpg" alt="Picture of blue circles with a black background" class="picture" id="picture">
+            <img src="static/Pexel/Pexel3.jpg" alt="Picture of waves" class="picture" id="picture">
+            <img src="static/Pexel/Pexel4.jpg" alt="Picture of a lemon with a blue background" class="picture" id="picture">
+            <img src="static/Pexel/Pexel5.jpg" alt="Picture of blue watercolor splotches" class="picture" id="picture">
+            <img src="static/Pexel/Pexel6.jpg" alt="Picture of blue and green colors in acrylic paint" class="picture" id="picture">
+            <img src="static/Pexel/Pexel7.jpg" alt="Picture of " class="picture" id="picture">
+            <img src="static/Pexel/Pexel8.jpg" alt="Picture of blueberries in crates" class="picture" id="picture">
+        </div>
         <p>Something will go here</p>
     </div>
     <div class="footer" id="footer">
