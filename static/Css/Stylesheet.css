@@ -48,6 +48,7 @@ a:visited {
     display: flex;
     direction: ltr;
     width: auto;
+    gap: 3px;
 }
 
 .picture {
