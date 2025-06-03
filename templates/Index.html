@@ -12,8 +12,8 @@
         </div>
         <h1>FrameLink</h1>
         <button type="button" id="changeColor">Dark mode</button>
-        <button type="button" class="buttons" id="buttons">Button 1</button>
-        <button type="button" class="buttons" id="buttons">Button 2</button>
+        <button type="button" class="buttons" id="buttons" onclick="location.href='{{ url_for ('login') }}'">Log in</button>
+        <button type="button" class="buttons" id="buttons" onclick="location.href='{{ url_for ('faq') }}'">Faq</button>
     </div>
     <div class="main" id="main">
         <div class="pictureFolder" id="pictureFolder">
