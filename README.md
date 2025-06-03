@@ -20,3 +20,18 @@ Denne nettsiden har en dark mode som utgjør en bedre opplevelse for brukeren. F
 
 ### Målgruppe
 Målgruppen er ungdom og unge voksne i alderen 13 til 25 år, med interesse for fotografi og illustrasjoner.
+
+
+#### Kilder
+- W3Schools
+- ChatGPT
+- StackOverflow
+- Alle bilder tatt fra Pexels
+- Skolens dokumenter
+
+
+##### Lover
+- Åndsverkloven
+- Persjonvern loven
+- GOPR
+- Likestillings og diskrimineringsloven
