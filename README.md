@@ -28,10 +28,12 @@ Målgruppen er ungdom og unge voksne i alderen 13 til 25 år, med interesse for 
 - StackOverflow
 - Alle bilder tatt fra Pexels
 - Skolens dokumenter
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-reset-your-mysql-or-mariadb-root-password#step-1-identifying-the-database-version)
+
 
 
 ##### Lover
 - Åndsverkloven
 - Persjonvern loven
-- GOPR
-- Likestillings og diskrimineringsloven
+- GDPR (Internasjonnal)
+- Likestillings og diskrimineringsloven (UU)

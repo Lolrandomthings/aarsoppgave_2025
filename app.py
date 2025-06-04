@@ -6,7 +6,7 @@ app = Flask(__name__)
 #     host="10.2.4.52",
 #     user="JayPi",
 #     password="Q",
-#     database="task"
+#     database="aarsoppgave"
 # )
 
 @app.route('/')
